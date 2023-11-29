@@ -1,0 +1,45 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="Pillow" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N802" />
+          <option value="N806" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="main.firstname" />
+          <option value="main.fname" />
+          <option value="learning.learning.urls.datetoday" />
+          <option value="classschedule.models.PersonalData" />
+          <option value="classschedule.models.ClassSchedule" />
+          <option value="ClassSchedule.models.ClassSchedule" />
+          <option value="blog.blog.views" />
+          <option value="blog.blogg.home" />
+          <option value="blog.blog.views.models" />
+          <option value="django.db.models.fields.related.OneToOneField.username" />
+          <option value="instagramPost.settings.os" />
+          <option value="Post.models.on_delete" />
+          <option value="djangoRest.urls.logoutView" />
+          <option value="mpesa.views.book" />
+          <option value="django.contrib.postgres.forms.*" />
+          <option value="email.html" />
+          <option value="django.forms.forms.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
